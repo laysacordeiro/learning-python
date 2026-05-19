@@ -1,0 +1,6 @@
+Desafio 1: Faça um programa que leia um numero inteiro e mostre seu sucessor e seu antecessor.
+Desafio 2: Crie um algoritmo que leia um numero e mostre seu dobro, tripo e raiz quadrada.
+Desafio 3: Escreva um programa que leia um valor em metro e o exiba convertido em centimetros e milimetros.
+Desafio 4: Faça um programa que leia um numero inteiro qualquer e mostre a sua tabuada
+Desafio 5: Crie um programa que leia quanto dinheiro tem na carteira e mostre quantos dolares ela pode comprar
+Desafio 6: Faça um programa que leia a largura e a altura de uma parede em metros, calcule sua area e a quantidade de tinta necessaria paa pinta-la. sabendno que cada litro de tinta pinta 2m2.

@@ -1,7 +1,6 @@
 #Desafio 3: Crie um script python que leia dois numeros e tente mostrar a soma entre eles.
-x = input("Digite um numero para x:")
-y = input("Digite um numero para y:")
+x = int(input("Digite um numero para x:"))
+y = int(input("Digite um numero para y:"))
 
-soma = (int(x) + int(y))
-
-print(x ,' + ', y, ' = ', soma)
+soma = x + y
+print("Resultado: {}".format(soma))
